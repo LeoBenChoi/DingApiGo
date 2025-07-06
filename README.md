@@ -7,3 +7,5 @@
 将系统 clone 下来，然后复制 `config/config.yaml.example` 为 `config/config.yaml`，并补充必填值。
 
 随后在main.go 中调用 `server` 下的所有实例，直接传参ヾ(≧▽≦*)o
+
+**随缘更新，有问题可以提issue，或者发送邮件leo_ben_choi@outlook.com**
