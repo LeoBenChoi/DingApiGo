@@ -1,0 +1,10 @@
+# config.yaml
+
+# 钉钉 API 配置
+dingding:
+  # 获取 Access Token
+  app_key: "" # 必填
+  app_secret: "" # 必填
+
+  # 微应用id
+  agent_id: "" # 必填, int64, 不用加引号
