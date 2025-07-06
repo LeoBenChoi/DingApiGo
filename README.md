@@ -1,2 +1,9 @@
 # DingApiGo
+
 开箱即用的dingdingapi调用，使用go语言实现
+
+## 使用方法
+
+将系统 clone 下来，然后复制 `config/config.yaml.example` 为 `config/config.yaml`，并补充必填值。
+
+随后在main.go 中调用 `server` 下的所有实例，直接传参ヾ(≧▽≦*)o
